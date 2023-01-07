@@ -1,7 +1,10 @@
 # Sowaste
 
 ```
-Using MVVM Architecture
+Using 
+    - MVVM Architecture
+    - GetX for state management
+
 ```
 
 # FILE STRUCTURE
@@ -9,7 +12,7 @@ Using MVVM Architecture
 **assets**
 
 - logo
-- fonts
+- icons
 - images
 
 **lib**
