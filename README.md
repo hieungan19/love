@@ -30,8 +30,8 @@ Using
   - <module_name>
     - screens
     - widgets
-    - _<module_name>\_controller.dart_
-    - _<module_name>\_binding.dart_
+    - *_<module_name>\_controller.dart_*
+    - *_<module_name>\_binding.dart_*
 - routes
   - _app_pages.dart_
   - _app_routes.dart_
