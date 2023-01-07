@@ -1,26 +1,36 @@
 # Sowaste
-```Using MVVM Architecture
+
 ```
-# FILE STRUCTURE 
+Using MVVM Architecture
+
+```
+
+# FILE STRUCTURE
+
+**assets**
+
+- logo
+- fonts
+- images
 
 **lib**
+
 - core
-        - themes
-        - utils
-        - values
-            - languages
-    - data
-        - models
-        - view_models
-        - services
-    - global_widgets
-    - **modules**
-        - <module_name>
-            - screens
-            - widgets
-            - *<module_name>_controller.dart*
-            - *<module_name>_binding.dart*
-    - routes  
-        - *app_pages.dart*
-        - *app_routes.dart*
-- *main.dart*
+  - themes
+  - utils
+  - values
+  - data
+    - models
+    - view_models
+    - services
+  - global_widgets
+  - **modules**
+    - <module_name>
+      - screens
+      - widgets
+      - _<module_name>\_controller.dart_
+      - _<module_name>\_binding.dart_
+  - routes
+    - _app_pages.dart_
+    - _app_routes.dart_
+- _main.dart_
